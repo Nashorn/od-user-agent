@@ -1,0 +1,11 @@
+{
+  "name": "od-user-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "useragent.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
